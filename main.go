@@ -47,6 +47,6 @@ func fizzBuzzPrime() {
 }
 
 func main() {
-	// Call the function to run the program
+	// Call the function to execute the program
 	fizzBuzzPrime()
 }
