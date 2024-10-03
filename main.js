@@ -26,7 +26,7 @@ function fizzBuzzPrime() {
           output += 'Buzz';
       }
 
-      // If none of the above, just print the number
+      // If none of the above, just print the number only
       if (output === '') {
           output = i;
       }
