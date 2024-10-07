@@ -49,4 +49,5 @@ func fizzBuzzPrime() {
 func main() {
 	// Call the function to execute the program
 	fizzBuzzPrime()
+	pointers.pt()
 }
