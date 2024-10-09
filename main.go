@@ -65,4 +65,7 @@ func main() {
 	// Call the function to execute the program
 	fizzBuzzPrime()
 	pt()
+	calc()
+
+
 }
