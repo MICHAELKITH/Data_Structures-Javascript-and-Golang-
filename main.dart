@@ -10,7 +10,7 @@ void main(List<String> arguments) {
   assert(arguments.length == 2);
   assert(int.parse(arguments[0]) == 1);
   assert(arguments[1] == 'testing');
-  print('Hello, World!');
+  print('Hello, World in dart!');
   var result = fibonacci(20);
   print(result);
 }
