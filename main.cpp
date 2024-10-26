@@ -23,7 +23,7 @@ int main() {
                 // Calculate area of a square
                 cout << "Enter the side length of the square: ";
                 cin >> side;
-                cout << "Area of the square = " << calculateSquareArea(side) << endl;
+                cout << "Area of the square is = " << calculateSquareArea(side) << endl;
                 break;
             
             case 2:
