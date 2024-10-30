@@ -28,7 +28,7 @@ func main() {
 
 	// Naming fields while 
 	// initializing a struct
-	a2 := Address{Name: "Anikaa", city: "Ballia",
+	a2 := Address{Name: "Mike", city: "Ballia",
 								Pincode: 277001}
 
 	fmt.Println("Address2: ", a2)
