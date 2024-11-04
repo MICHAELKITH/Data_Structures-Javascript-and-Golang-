@@ -11,6 +11,6 @@ void main(List<String> arguments) {
   assert(int.parse(arguments[0]) == 1);
   assert(arguments[1] == 'testing');
   print('Hello, World in dart language!');
-  var result = fibonacci(20);
+  var result = fibonacci(100);
   print(result);
 }
