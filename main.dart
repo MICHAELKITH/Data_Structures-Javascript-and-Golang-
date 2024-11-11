@@ -10,7 +10,7 @@ void main(List<String> arguments) {
   assert(arguments.length == 2);
   assert(int.parse(arguments[0]) == 1);
   assert(arguments[1] == 'testing');
-  print('Hello, World in dart language live on tiktok!');
+  print('Creating an app using flutter!');
   var result = fibonacci(100);
   print(result);
 }
